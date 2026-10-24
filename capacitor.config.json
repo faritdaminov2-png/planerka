@@ -1,0 +1,10 @@
+{
+  "appId": "kz.planerka.app",
+  "appName": "Планёрка",
+  "webDir": "www",
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#0F6E5A"
+    }
+  }
+}
